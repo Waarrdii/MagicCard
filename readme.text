@@ -1,1 +1,9 @@
 https://codepen.io/gayane-gasparyan/pen/jOmaBQK
+
+@propert digunakan untuk menambahkan custome properti dan variabel
+
+*132deg = 132 derajat
+
+syntax read here https://developer.mozilla.org/en-US/docs/Web/CSS/@property/syntax
+
+animasi bergerak karena adanya @keyframe
